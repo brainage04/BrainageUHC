@@ -1,4 +1,4 @@
-package com.example.command;
+package com.github.brainage04.brainageuhc.command;
 
 import com.mojang.brigadier.CommandDispatcher;
 import net.minecraft.commands.CommandSourceStack;
